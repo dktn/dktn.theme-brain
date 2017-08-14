@@ -1,0 +1,22 @@
+{
+    "name": "dktn-brain",
+    "displayName": "DktnBrain",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "dktn",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DktnBrain",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dktn-color-theme.json"
+            }
+        ]
+    }
+}
